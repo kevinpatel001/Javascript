@@ -9,7 +9,7 @@ console.log(firstName,"is your firstname", lastName ,"is your lastname")  // con
 
 }
 
-fullName("kevin",)                                      // function has been executed
+fullName("kevin","patel")                                      // function has been executed
 
 
 

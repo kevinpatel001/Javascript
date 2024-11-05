@@ -9,9 +9,10 @@ if(number%2==0){
 
 }
 else(number%2!=0)
+{
 console.log(number,"is odd number")
-
-
+}
+ 
 }
 
-evenOdd(6)
+evenOdd(7)
